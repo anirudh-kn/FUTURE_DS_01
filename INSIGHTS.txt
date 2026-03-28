@@ -1,0 +1,7 @@
+Key Insights from Sales Dashboard
+
+1. Technology category generates the highest sales (~0.84M), indicating strong demand.
+2. Sales show steady growth from 2015 to 2017, reflecting business expansion.
+3. Top 10 products contribute significantly to total revenue.
+4. Sales are concentrated in specific regions, especially in the US.
+5. Profit trends align with sales trends, indicating stable margins.
